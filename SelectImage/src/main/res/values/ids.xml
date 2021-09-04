@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="select_image_photo_frame_layout" type="id"/>
+    <item name="select_image_add_photo" type="id"/>
+    <item name="select_image_select_from_storage" type="id"/>
+    <item name="select_image_take_photo" type="id"/>
+</resources>

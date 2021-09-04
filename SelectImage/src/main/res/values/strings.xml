@@ -1,0 +1,4 @@
+<resources>
+    <string name="select_image_select_from_storage">Select from storage</string>
+    <string name="select_image_take_photo">Take photo</string>
+</resources>
